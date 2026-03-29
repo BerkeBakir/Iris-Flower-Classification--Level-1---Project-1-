@@ -24,8 +24,12 @@ Matplotlib & Seaborn (Görselleştirme)
 #Örnek Çıktı
 Model, test verileri üzerinde %100 doğruluk oranıyla çalışmaktadır.
 >>>Sepal Length: 5.1
+
 >>>Sepal Width: 3.5
+
 >>>Petal Length: 1.4
+
 >>>Petal Width: 0.2
->>> ANALİZ SONUCU: Bu çiçek bir SETOSA!
+
+>>> ANALzZ SONUCU: Bu çiçek bir SETOSA!
 
